@@ -1,0 +1,4 @@
+TEXT = 1
+FILE = 2
+EXIT = 3
+SYSTEM = 4
