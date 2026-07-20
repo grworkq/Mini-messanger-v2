@@ -1,6 +1,6 @@
 import socket, threading, client_utils
 
-HOST, PORT = '192.168.0.41', 65432
+HOST, PORT = 'xxx.xxx.xxx.xxx', 65432
 
 with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
     sock.connect((HOST,PORT))
